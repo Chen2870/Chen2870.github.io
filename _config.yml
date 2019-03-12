@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Yihui (April) Chen"
-  avatar           : "/images/bio-img.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio_img.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a thinker."
   location         : "San Francisco, CA"
   email            : "yihche@ucdavis.edu"
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Chen2870"
+  github           : "Chen2870"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/april-yihui-chen/" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "april-yihui-chen/" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
