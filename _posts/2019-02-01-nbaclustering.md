@@ -11,9 +11,9 @@ mathjax: "true"
 # Project Explanation
 This NBA Social Power Project is to utilize NBA team, player and their social media data to explore NBA on the court performance and players’ social power. My analysis mainly focuses on NBA players’ individual abilities. I also clustered these NBA players into three groups based on their individual abilities.
 
-#Dataset
+# GitHub Link
 
-Kaggle
+![alt]({{ https://github.com/Chen2870/EDA_Clustering_NBA_Players }}{{ site.baseurl }}/images/GitHub.PNG)
 
 ### H3 Heading
 
@@ -57,7 +57,7 @@ Here's an image:
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
 
 Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)(https://github.com/dataoptimal)
+![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
 
 Here's some math:
 
