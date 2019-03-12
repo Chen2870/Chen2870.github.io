@@ -2,7 +2,7 @@
 title: "Professional Experiences"
 permalink: /professional_experiences/
 header:
-  image: "/images/background.jpg"
+  image: "/images/mountain.jpg"
 ---
 
 # Engage3 [![Foo](images\Experience\engage3.PNG)](https://www.linkedin.com/company/engage3/)
