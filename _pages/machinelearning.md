@@ -1,8 +1,8 @@
 ---
 layout: posts
-permalink: /data-wrangling/
+permalink: /Machine Learning Projects/
 title: "Machine Learning Projects"
 author_profile: true
 header:
-  image: "/project_background.jpg"
+  image: "/images/project_background.jpg"
 ---
