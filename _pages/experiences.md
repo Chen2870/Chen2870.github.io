@@ -1,6 +1,6 @@
 ---
 title: "Professional Experiences"
-permalink: /professional_experiences/
+permalink: /about/professional_experiences/
 header:
   image: "/images/mountain.jpg"
 ---

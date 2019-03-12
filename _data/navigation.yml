@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-      - title: "Professional Experience"
-        url: /professional_experiences/
+  - title: "Professional Experience"
+    url: /about/professional_experiences/
   - title: "Machine Learning Projects"
     url: /machine_learning_projects/
 
