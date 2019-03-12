@@ -11,60 +11,14 @@ mathjax: "true"
 # Project Explanation
 This NBA Social Power Project is to utilize NBA team, player and their social media data to explore NBA on the court performance and players’ social power. My analysis mainly focuses on NBA players’ individual abilities. I also clustered these NBA players into three groups based on their individual abilities.
 
+# Dataset
+
+[Kaggle NBA Social Power Data](https://www.kaggle.com/noahgift/social-power-nba)
+
 # GitHub Link
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/GitHub.PNG)
+[![Foo](/images/GitHub.PNG)](https://github.com/Chen2870/EDA_Clustering_NBA_Players)
 
-[<img src="/images/GitHub.PNG">](http://google.com.au/)
+# Data Analysis Report link
 
-[![Foo](/images/GitHub.PNG)](http://google.com.au/)
-
-### H3 Heading
-
-Here's some basic text.
-
-And here's some *italics*
-
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
+[NBA Players Clustering Analysis Report](https://github.com/Chen2870/EDA_Clustering_NBA_Players/blob/master/NBA_Players_Analysis_Report.pdf)
