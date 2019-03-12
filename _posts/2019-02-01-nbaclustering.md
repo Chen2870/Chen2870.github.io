@@ -13,7 +13,11 @@ This NBA Social Power Project is to utilize NBA team, player and their social me
 
 # GitHub Link
 
-![alt]({{ https://github.com/Chen2870/EDA_Clustering_NBA_Players }}{{ site.baseurl }}/images/GitHub.PNG)
+![alt]({{ site.url }}{{ site.baseurl }}/images/GitHub.PNG)
+
+[<img src="/images/GitHub.PNG">](http://google.com.au/)
+
+[![Foo](/images/GitHub.PNG)](http://google.com.au/)
 
 ### H3 Heading
 
