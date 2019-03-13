@@ -1,5 +1,5 @@
 ---
-title: "Student Performance Analysis"
+title: "World Food Clustering with Gaussian Mixture Model"
 date: 2019-02-15
 tags: [exploratory data analysis, pca, gaussian mixture model, clustering, data science, machine learning, kaggle, Student Performance]
 header:
