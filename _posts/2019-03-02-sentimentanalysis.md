@@ -3,7 +3,7 @@ title: "Twitter Customer Support Sentiment Analysis (AWS & GCP)"
 date: 2019-03-02
 tags: [sentiment analysis, nlp, data science, machine learning, aws, gcp]
 header:
-  image: "/images/projectimage/customersentiment.jpg"
+  image: "/images/projectimage/customersentiment.png"
 excerpt: "Sentiment Analysis, NLP, Data Science, Machine Learning, AWS, GCP]"
 mathjax: "true"
 ---
