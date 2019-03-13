@@ -1,10 +1,10 @@
 ---
 title: "Cluster Similar NBA Players"
 date: 2019-02-01
-tags: [exploratory data analysis, clustering, data science, machine learning, kaggle, titanic project]
+tags: [exploratory data analysis, clustering, data science, machine learning, kaggle, NBA Players]
 header:
   image: "/images/NBA/nba.jpg"
-excerpt: "Exploratory Data Analysis, Clustering, Data Science, Machine Learning, Kaggle, Titanic Project"
+excerpt: "Exploratory Data Analysis, Clustering, Data Science, Machine Learning, Kaggle, NBA Players"
 mathjax: "true"
 ---
 
